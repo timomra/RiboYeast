@@ -14,7 +14,10 @@ Please don't hesitate to message the group if you're struggling to do anything, 
 ### Cheikh: 
 
 Part 1:
-Set up the environment as per their instructions. And share the .yaml file with Tim and Isobel
+Set up the environment as per their instructions. And share the .yaml file with Tim and Isobel 
+(this stack overflow article may be helpful: https://stackoverflow.com/questions/39280638/how-to-share-conda-environments-across-platforms)
+
+`Deadline: Monday 16th of November`
 
 Part 2:
 Download fastqfiles and reproduce <mark>figures 1a-e, and supplementary 3a-e</mark>
