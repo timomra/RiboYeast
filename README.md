@@ -7,7 +7,7 @@
 
 # Jobs: 
 
-Cheikh: 
+### Cheikh: 
 
 Download fastqfiles and reproduce <mark>figures 1a-e, and supplementary 3a-e</mark>
 
@@ -19,6 +19,11 @@ curl -LO ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR266/006/ERR2660266/ERR2660266.fas
 curl -LO ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR266/002/ERR2660262/ERR2660262.fastq.gz
 curl -LO ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR266/007/ERR2660267/ERR2660267.fastq.gz
 curl -LO ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR266/009/ERR2660269/ERR2660269.fastq.gz
+
+Set up the environment as per their instructions. And share the .yaml file with Tim and Isobel
+
+
+
 
 
 
