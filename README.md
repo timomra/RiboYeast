@@ -7,7 +7,9 @@
 
 # Jobs: 
 
-Cheikh: Download fastqfiles and reproduce figures 1a-e, and supplementary 3a-e
+Cheikh: 
+
+Download fastqfiles and reproduce <mark>figures 1a-e, and supplementary 3a-e</mark>
 
 curl -LO ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR266/001/ERR2660271/ERR2660271.fastq.gz
 curl -LO ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR266/004/ERR2660264/ERR2660264.fastq.gz
